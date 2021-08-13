@@ -36,7 +36,7 @@ export default {
       showObtainCode: true,
     }
   },
-  mounted() {x},
+  mounted() {},
   created() {},
   methods: {
     startCount() {
